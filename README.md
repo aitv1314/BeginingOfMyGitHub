@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # BeginingOfMyGitHub
 for test
 
