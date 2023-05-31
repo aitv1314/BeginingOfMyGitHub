@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # BeginingOfMyGitHub
 for test
@@ -8,3 +9,4 @@ for test
 
 test
 
+test
